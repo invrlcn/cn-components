@@ -1,0 +1,2 @@
+# cn-components
+component encapsulation
